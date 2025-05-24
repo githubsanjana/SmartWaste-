@@ -21,9 +21,18 @@ A console-based project for tracking waste disposal, scheduling pickups, and rew
 
 ## 📸 Sample Output
 
+Below is a sample terminal output of SmartWaste:
 
-![SmartWaste Output]!![6](https://github.com/user-attachments/assets/fbdd2992-c8ef-47e1-bfeb-11020caa1871)
-[1](https://github.com/user-attachments/assets/c8f46f50-3075-4b80-a60b-fd3faf27529e)
-(output.png)
+### 🖥️ Output 1: Waste Entry Screen
+![Waste Entry Output]()![1](https://github.com/user-attachments/assets/d6e3091e-980e-47e0-95f5-f6d4aa47643f)
+
+
+### 🖥️ Output 2: Reward Summary Screen
+![Reward Summary Output]()![6](https://github.com/user-attachments/assets/5d58494b-0f3a-48f8-9a37-389e19866120)
+
+
+
+
+
 
 
