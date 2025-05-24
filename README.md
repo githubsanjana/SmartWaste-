@@ -19,4 +19,9 @@ A console-based project for tracking waste disposal, scheduling pickups, and rew
 | `Waste.cpp` | Base class for waste types |
 | `pickups.txt` | Stores pickup schedules |
 
+## 📸 Sample Output
+
+![SmartWaste Output](![1](https://github.com/user-attachments/assets/26f5efff-6fb9-43ad-8a51-ae975c09517f)
+)
+
 
