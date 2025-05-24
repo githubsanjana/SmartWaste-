@@ -21,7 +21,9 @@ A console-based project for tracking waste disposal, scheduling pickups, and rew
 
 ## 📸 Sample Output
 
-![SmartWaste Output](![1](https://github.com/user-attachments/assets/26f5efff-6fb9-43ad-8a51-ae975c09517f)
-)
+
+![SmartWaste Output]!![6](https://github.com/user-attachments/assets/fbdd2992-c8ef-47e1-bfeb-11020caa1871)
+[1](https://github.com/user-attachments/assets/c8f46f50-3075-4b80-a60b-fd3faf27529e)
+(output.png)
 
 
